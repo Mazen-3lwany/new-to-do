@@ -42,7 +42,7 @@ function addtoDo(inputText){
                 todoIteam.classList.add("checked")
             }
             else{
-                todoIteam.classList.remove("checked")
+                toawdawddoIteam.classList.remove("checked")
             }
         })
         todoIteam.appendChild(checkbox);
